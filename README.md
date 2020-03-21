@@ -33,7 +33,7 @@ Midnight – Winner Ceremony
 Problem Statements: 
 
 Build a Chatbot for Information Sharing
- Telemedic – Online Medical Consultation
+Telemedic – Online Medical Consultation
 Data Analytics to predict / understand the spread of COVID19
 Design a low-cost ventilator 
 Anything else you like!
@@ -42,7 +42,7 @@ Online Registration: https://in.explara.com/e/solve4covid19
 Deadline for Registrations – 9pm, 21st March. 
  
 Join Slack Community: https://bit.ly/SolveSlack
-Resources: 
-https://gitlab.fabcloud.org/pub/project/coronavirus/tracking
+
+Resources: https://gitlab.fabcloud.org/pub/project/coronavirus/tracking
 https://covidout.in
 https://ncov2019.live
